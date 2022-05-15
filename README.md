@@ -18,6 +18,8 @@ Home:
 ## Menu:
 ![Menu](https://user-images.githubusercontent.com/71457771/168495821-54cfdda3-e1a2-46b9-80ac-35e4233bb295.png)
 ![Menu 2](https://user-images.githubusercontent.com/71457771/168495896-d7c5a440-17a4-474d-940b-9e7f38be297a.png)
+## Menu Asociaciones:
+
 ## Seccion Animales:
 ![1](https://user-images.githubusercontent.com/71457771/168495923-3a0cd6ca-b111-4981-a911-d5f2bcfceca9.png)
 ![2](https://user-images.githubusercontent.com/71457771/168495935-64e3cb05-f8d1-487a-81bb-0a711549d764.png)
@@ -35,7 +37,8 @@ Home:
 ![Game3](https://user-images.githubusercontent.com/71457771/168496090-67bda94f-2e6f-4024-a1c9-d9f6ee251d97.png)
 ## Juego Cubos:
 ![Game4](https://user-images.githubusercontent.com/71457771/168496103-3c41c038-2715-46e9-8fa4-af1c14b06a3d.png)
-
+## Juego Ballena:
+![Game5](https://user-images.githubusercontent.com/71457771/168496442-4f53afac-7894-4358-8d15-a887c1f65de1.png)
 
 ## Diagrama
 
