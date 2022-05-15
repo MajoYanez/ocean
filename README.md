@@ -19,7 +19,9 @@ Home:
 ![Menu](https://user-images.githubusercontent.com/71457771/168495821-54cfdda3-e1a2-46b9-80ac-35e4233bb295.png)
 ![Menu 2](https://user-images.githubusercontent.com/71457771/168495896-d7c5a440-17a4-474d-940b-9e7f38be297a.png)
 ## Menu Asociaciones:
-
+![Captura de Pantalla 2022-05-15 a la(s) 17 33 23](https://user-images.githubusercontent.com/71457771/168496731-f08410a0-ed84-4a5b-b6ac-f56ab40e425c.png)
+# Ejemplo:
+![Captura de Pantalla 2022-05-15 a la(s) 17 33 41](https://user-images.githubusercontent.com/71457771/168496735-e9d18b6c-a9dc-4aa0-91e2-b58fcf065c1a.png)
 ## Seccion Animales:
 ![1](https://user-images.githubusercontent.com/71457771/168495923-3a0cd6ca-b111-4981-a911-d5f2bcfceca9.png)
 ![2](https://user-images.githubusercontent.com/71457771/168495935-64e3cb05-f8d1-487a-81bb-0a711549d764.png)
@@ -41,7 +43,10 @@ Home:
 ![Game5](https://user-images.githubusercontent.com/71457771/168496442-4f53afac-7894-4358-8d15-a887c1f65de1.png)
 
 ## Diagrama
-
+# 1.Diagrama de la solucion 
+![1](https://user-images.githubusercontent.com/71457771/168496816-2b4f993e-848a-4dbb-b38c-3148b9d79ee0.png)
+# 1.Diagrama del sitio 
+![2](https://user-images.githubusercontent.com/71457771/168496821-d32a867d-1c3c-4854-8b5c-c1c0e039a891.png)
 ## Autores ✒️
 
 * **Maria Belem Yañez Sanchez** - [MariaBelem](https://github.com/Mariabys)
