@@ -13,12 +13,14 @@ Creacion de un sitio web que junto con las asociaciones mediante la reproduccion
 * [Github Pages](https://pages.github.com) - Sitios web para ti y tus proyectos, alojados directamente desde tu repositorio de GitHub. Simplemente edite, presione y sus cambios estarán en vivo.
 
 ## Despliegue 📦
-
-
+Home:
+![Home](https://user-images.githubusercontent.com/71457771/168495800-b75091f8-4a9b-4f58-a266-51c32390a96f.png)
+Menu:
+![Menu](https://user-images.githubusercontent.com/71457771/168495821-54cfdda3-e1a2-46b9-80ac-35e4233bb295.png)
 
 ## Diagrama
 
 ## Autores ✒️
 
-* **Maria Belem Yañez Sanchez** - *Trabajo Inicial* - [MariaBelem](launchx00478@innovaccion.mx)
-* **Maria Jose Yañez Sanchez** - *Documentación* - [MariaJose](launchx00453@innovaccion.mx)
+* **Maria Belem Yañez Sanchez** - [MariaBelem](https://github.com/Mariabys)
+* **Maria Jose Yañez Sanchez** - [MariaJose](https://github.com/MajoYanez)
