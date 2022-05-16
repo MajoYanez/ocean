@@ -47,6 +47,9 @@ Home:
 ![1](https://user-images.githubusercontent.com/71457771/168496816-2b4f993e-848a-4dbb-b38c-3148b9d79ee0.png)
 # 1.Diagrama del sitio 
 ![2](https://user-images.githubusercontent.com/71457771/168496821-d32a867d-1c3c-4854-8b5c-c1c0e039a891.png)
+## Github Page del sitio estatico
+https://majoyanez.github.io/ocean/OCEAN/index.html
+
 ## Autores ✒️
 
 * **Maria Belem Yañez Sanchez** - [MariaBelem](https://github.com/Mariabys)
